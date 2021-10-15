@@ -10,6 +10,7 @@
 - Also, 🚩
 - Yes, I get to.
 - Hiss hiss hiss
+- Possibly more than a cat
 
 [![](https://img.shields.io/badge/My%20epic%20gaming%2fcoding%20PC%20%3A%29-red?style=for-the-badge&logo=counter-strike&logocolor=white&labelColor=222)](https://i.imgur.com/UrbZwFO.png)
 
