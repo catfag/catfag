@@ -3,7 +3,7 @@
 
 ### About me
 - My tech stack: ![](https://img.shields.io/badge/Depression-ff69b4?style=flat) ![](https://img.shields.io/badge/Meowing-ff91c8?logo=furrynetwork&style=flat) ![](https://img.shields.io/badge/Daddy%20issues-ff369a?logo=trino&style=flat) 
-- \[Obligatory techbro nerdwank about how cool I am]
+- \[Obligatory techbro nerdwank about how cool I am, also wage slavery]
 - I'm an actual cat toy.
 - I'm a software abolitionist, please eradicate all software, it was a mistake to create programming. 
 - 🏳️‍🌈 Queerer than thou: ![](https://img.shields.io/badge/he%2Fhim-64b2ff?style=flat) ![](https://img.shields.io/badge/they%2Fthem-555?style=flat)
